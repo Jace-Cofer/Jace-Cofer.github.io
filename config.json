@@ -8,7 +8,7 @@
     "text": "Jace Cofer"
   },
   "text": {
-    "more": "This data has been collected across aproximately 2,000 randomly selected actors via their 'known for' films on IMBd. I was able to collect data from IMDb non-commercial data sets (https://developer.imdb.com/non-commercial-datasets/), organize it using EXcel and graph it using a program for network graphs called Gephi. ",
+    "more": "This data has been collected across aproximately 2,000 randomly selected actors via their 'known for' films on IMBd. I was able to collect data from IMDb non-commercial data sets (https://developer.imdb.com/non-commercial-datasets/), organize it using Excel and graph it using a program for network graphs called Gephi.",
     "intro": "",
     "title": "Actors Who Have Been in Movies with Other Actors"
   },
